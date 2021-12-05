@@ -2,5 +2,5 @@
 Consists of jupytrer noteebooks for 
   1. sentinel 5-p data download
   2. Variational Study over 
-        a. Israel during conflict
-        b. Delhi During second lockdown
+  Israel during conflict
+  Delhi During second lockdown
